@@ -1,1 +1,3 @@
-# Lessons
+# School_timetable program
+This is a program which takes in the teacher's name, what subject they teach and for how many hours, and sorts that information into a table to complete the ideal timetable for 6 classes. The maximum number of hours a teacher can work without interfering with other subjects or an already existing lesson is 80 hours a month (20 hours a week). Therefore, 20 hours is the maximum limit a teacher can work for. The timetable is only done for one week, as in the specifications it is implied that the timetable does not change during the month.
+Also, as stated in the specifications, Maths and Physics are the top priorities, meaning that they get filled in first, before any other subject.
